@@ -30,7 +30,7 @@
 #include "arm.h"
 
 /* define for enabling armv7 gdb workarounds */
-#if 1
+#if 0
 #define ARMV7_GDB_HACKS
 #endif
 
